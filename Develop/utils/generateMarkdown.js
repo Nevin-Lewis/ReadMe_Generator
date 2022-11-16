@@ -218,7 +218,7 @@ ${Description}
 To install necessary depnedencies, run the follow commands:
 
 \`\`\`
-${Commands},
+${Commands}
 \`\`\`
 
 ## Usage
