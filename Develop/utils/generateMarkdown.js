@@ -214,7 +214,7 @@ ${Description}
 * [Test](#test)
 * [Questions](#questions)
 
-## Installations
+## Installation
 To install necessary depnedencies, run the follow commands:
 
 \`\`\`
@@ -229,7 +229,7 @@ ${renderLicenseSection(License, name)}
 ## Contributing
 ${Contributing}
 
-## Tests
+## Test
 To run tess, run the following command:
 
 \`\`\`

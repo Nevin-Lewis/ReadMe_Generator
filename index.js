@@ -31,7 +31,7 @@ inquirer
           {
             type: 'input',
             name: 'Usage',
-            message: 'What are the usage restriction for your repo?',
+            message: 'What are the usage information for your repo?',
           },
           {
             type: 'input',
